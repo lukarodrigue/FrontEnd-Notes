@@ -2,7 +2,7 @@
 
 Interface web para criação e gerenciamento de notas com tags e links úteis.
 
-![Preview](./preview.png)
+![Preview](./src/assets/preview.png)
 
 ## Sobre o projeto
 
